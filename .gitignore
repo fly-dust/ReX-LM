@@ -160,3 +160,24 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+Llama-3-Magpie-Air-3M-v0.1/corpus.jsonl
+Llama-3-Magpie-Air-3M-v0.1/corpus.mmindex.json
+Llama-3-Magpie-Air-3M-v0.1/data.csc.index.npy
+Llama-3-Magpie-Air-3M-v0.1/indices.csc.index.npy
+Llama-3-Magpie-Air-3M-v0.1/indptr.csc.index.npy
+Llama-3-Magpie-Air-3M-v0.1/params.index.json
+Llama-3-Magpie-Air-3M-v0.1/vocab.index.json
+Llama-3-Magpie-Pro-1M-v0.1/corpus.jsonl
+Llama-3-Magpie-Pro-1M-v0.1/corpus.mmindex.json
+Llama-3-Magpie-Pro-1M-v0.1/data.csc.index.npy
+Llama-3-Magpie-Pro-1M-v0.1/indices.csc.index.npy
+Llama-3-Magpie-Pro-1M-v0.1/indptr.csc.index.npy
+Llama-3-Magpie-Pro-1M-v0.1/params.index.json
+Llama-3-Magpie-Pro-1M-v0.1/vocab.index.json
+Magpie-Pro-300K-Filtered/corpus.jsonl
+Magpie-Pro-300K-Filtered/corpus.mmindex.json
+Magpie-Pro-300K-Filtered/data.csc.index.npy
+Magpie-Pro-300K-Filtered/indices.csc.index.npy
+Magpie-Pro-300K-Filtered/indptr.csc.index.npy
+Magpie-Pro-300K-Filtered/params.index.json
+Magpie-Pro-300K-Filtered/vocab.index.json
