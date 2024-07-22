@@ -181,3 +181,4 @@ Magpie-Pro-300K-Filtered/indices.csc.index.npy
 Magpie-Pro-300K-Filtered/indptr.csc.index.npy
 Magpie-Pro-300K-Filtered/params.index.json
 Magpie-Pro-300K-Filtered/vocab.index.json
+extracted_data_50k.jsonl

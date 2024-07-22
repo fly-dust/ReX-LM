@@ -1,10 +1,10 @@
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
-tokenizer = AutoTokenizer.from_pretrained("yuchenlin/Rex-v0.1-1.5B", trust_remote_code=True)
+tokenizer = AutoTokenizer.from_pretrained("yuchenlin/Rex-v0.1-0.5B", trust_remote_code=True)
 # tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2-1.5B-Instruct") # no Rex, for comparisons only
 
 model = AutoModelForCausalLM.from_pretrained(
-    "yuchenlin/Rex-v0.1-1.5B",
+    "yuchenlin/Rex-v0.1-0.5B",
     torch_dtype="auto",
     # device_map="auto"
 )
